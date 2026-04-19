@@ -21,7 +21,7 @@ Cargado desde un archivo `calles.csv`, se representa un **grafo ** con ciudades 
 ### 5.  Concurrencia (ESP32)
 Simulación de múltiples cajas atendiendo personas de forma concurrente. Usa hilos (`threading`) en Python y comunicación serial con una placa **ESP32** que enciende LEDs reales.
 
-## 🖼️ Interfaz Gráfica
+## Interfaz Gráfica
 Todo el proyecto se controla desde un menú principal desarrollado en **Tkinter**.
 
 
